@@ -1,0 +1,15 @@
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\bin\Debug\net9.0\SatAlert.Application.deps.json
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\bin\Debug\net9.0\SatAlert.Application.dll
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\bin\Debug\net9.0\SatAlert.Application.pdb
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\bin\Debug\net9.0\SatAlert.Domain.dll
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\bin\Debug\net9.0\SatAlert.Domain.pdb
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\obj\Debug\net9.0\SatAlert.Application.csproj.AssemblyReference.cache
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\obj\Debug\net9.0\SatAlert.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\obj\Debug\net9.0\SatAlert.Application.AssemblyInfoInputs.cache
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\obj\Debug\net9.0\SatAlert.Application.AssemblyInfo.cs
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\obj\Debug\net9.0\SatAlert.Application.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\obj\Debug\net9.0\SatAlert.362F2CF7.Up2Date
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\obj\Debug\net9.0\SatAlert.Application.dll
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\obj\Debug\net9.0\refint\SatAlert.Application.dll
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\obj\Debug\net9.0\SatAlert.Application.pdb
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Application\obj\Debug\net9.0\ref\SatAlert.Application.dll

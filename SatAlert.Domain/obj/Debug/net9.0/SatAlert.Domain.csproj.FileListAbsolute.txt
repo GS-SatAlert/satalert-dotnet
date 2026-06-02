@@ -1,0 +1,11 @@
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\bin\Debug\net9.0\SatAlert.Domain.deps.json
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\bin\Debug\net9.0\SatAlert.Domain.dll
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\bin\Debug\net9.0\SatAlert.Domain.pdb
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\obj\Debug\net9.0\SatAlert.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\obj\Debug\net9.0\SatAlert.Domain.AssemblyInfoInputs.cache
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\obj\Debug\net9.0\SatAlert.Domain.AssemblyInfo.cs
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\obj\Debug\net9.0\SatAlert.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\obj\Debug\net9.0\SatAlert.Domain.dll
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\obj\Debug\net9.0\refint\SatAlert.Domain.dll
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\obj\Debug\net9.0\SatAlert.Domain.pdb
+C:\Users\arthu\Downloads\SatAlert\SatAlert\SatAlert.Domain\obj\Debug\net9.0\ref\SatAlert.Domain.dll

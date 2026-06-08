@@ -1,4 +1,4 @@
-# SatAlert API (.NET) — Challenge FIAP 2026
+# SatAlert API (.NET) — Global Solution FIAP 2026
 
 API REST de gerenciamento de usuários e notificações de alerta do sistema SatAlert.
 
@@ -11,6 +11,11 @@ API REST de gerenciamento de usuários e notificações de alerta do sistema Sat
 | Diogo Cunha | 563654 | 2TDSPF |
 | Pedro Santos Pequini | 561842 | 2TDSPF |
 | Pedro Sakai Silva Zambaca | 565956 | 2TDSPF |
+
+## Links
+
+- **Vídeo demonstração:** *(em breve)*
+- **Vídeo pitch:** *(em breve)*
 
 ## Sobre o Projeto
 
@@ -183,13 +188,3 @@ Recurso não encontrado retorna 404:
 ```json
 { "erro": "Usuário não encontrado." }
 ```
-
-## Perguntas frequentes da apresentação
-
-**Como o banco foi modelado?** Duas tabelas no Oracle: `SAT_Usuarios` e `SAT_Notificacoes`, com FK de `UsuarioId` em Notificacoes referenciando `Id` de Usuarios.
-
-**O que acontece ao deletar um usuário?** Cascade delete — todas as notificações do usuário são removidas automaticamente.
-
-**O que são migrations?** Versionamento do schema do banco. Cada migration representa uma mudança na estrutura. O EF Core aplica automaticamente com `database update`.
-
-**Como tratar entradas inválidas?** Validação nos DTOs com `DataAnnotations`. Campos obrigatórios, tamanhos máximos e formato de e-mail são validados antes de chegar no controller, retornando 400 com mensagem clara.

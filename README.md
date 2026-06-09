@@ -14,8 +14,8 @@ API REST de gerenciamento de usuários e notificações de alerta do sistema Sat
 
 ## Links
 
-- **Vídeo demonstração:** *(em breve)*
-- **Vídeo pitch:** *(em breve)*
+- **Vídeo demonstração:** https://youtu.be/57Vll7rw8AA?si=W5ul1Gs84gjDju9Z
+- **Vídeo pitch:** https://youtu.be/flISAHDgXsE?si=qE5hHy4uxqc_mymB
 
 ## Sobre o Projeto
 
